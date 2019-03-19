@@ -17,7 +17,3 @@ John's box model is consistent with coagulation as the dominant growth mechanism
 
 #methodology
 we USed a TOF-AMS to measure aerosol mass and composition (smith et al, 1998).
-
-##instrumentation
-
-lets just delete this
