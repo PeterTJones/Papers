@@ -1,9 +1,9 @@
 # Title
-Measurements of biomass burning aerosol
-over West Africa
+Simulations of biomass burning aerosol over West Africa
 
 # Authors
-Gerard Capes
+Gerard Capes, 
+John Smith
 
 # Introduction
 BBOA are important for the radiative effect but the magnitude and even direction are unclear
