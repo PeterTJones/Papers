@@ -24,3 +24,6 @@ properties of the particles.
 
 #Figures
 Draft figures, so the figures go in a section of their own.
+
+#Conclusion
+If your reading this Gerard, I just copied your story.
