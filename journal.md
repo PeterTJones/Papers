@@ -14,3 +14,6 @@ Our measurements set out to add to this body of knowledge using mass Spectromete
 
 #Simulations
 John's box model is consistent with coagulation as the dominant growth mechanism.
+
+#methodology
+we USed a TOF-AMS to measure aerosol mass and composition (smith et al, 1998).
