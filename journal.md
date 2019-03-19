@@ -30,3 +30,6 @@ Draft figures, so the figures go in a section of their own.
 
 #Conclusion
 If your reading this Gerard, I just copied your story.
+
+#acknowledgements
+Thanks Gerard
