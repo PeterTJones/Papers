@@ -3,8 +3,9 @@
 Model-measurement comparison of biomass burning aerosol over West Africa
 
 # Authors
-John Smith,
-Gerard Capes 
+John Smith, University of NotManchester
+Gerard Capes, University of Manchester
+
 
 
 # Introduction
