@@ -1,12 +1,16 @@
 # Title
-Aircraft Measurements of biomass burning aerosol
-over West Africa
+
+Model-measurement comparison of biomass burning aerosol over West Africa
 
 # Authors
-Gerard Capes
+Gerard Capes, 
+John Smith
 
 # Introduction
 BBOA are important for the radiative effect but the magnitude and even direction are unclear
 (Haywood et al, 2000).
 Our measurements set out to add to this body of knowledge using mass Spectrometer data
 (Allan et al, 2001).
+
+#Simulations
+John's box model is consistent with coagulation as the dominant growth mechanism.
